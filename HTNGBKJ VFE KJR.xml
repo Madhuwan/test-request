@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>John Doe</name>
+    <age>30</age>
+</person>
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+    </book>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+    </book>
+</library>
